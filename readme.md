@@ -1,38 +1,38 @@
-<h1>WordPress Tips and Tricks </h1>
-Here are some useful tips and tricks to optimize and customize your WordPress site:
 
-1. Change Permalinks
-   To improve SEO and readability, update your permalink structure:
+  <h1>WordPress Tips and Tricks</h1>
+  <p>Optimize and customize your WordPress site efficiently with these helpful tips and tools:</p>
 
-Go to Settings > Permalinks
+  <h2>1. ✅ Change Permalink Structure</h2>
+  <p>Improve your site's SEO and URL readability:</p>
+  <ul>
+    <li>Go to <strong>Settings &gt; Permalinks</strong></li>
+    <li>Select the <strong>Post name</strong> option for a cleaner URL (e.g., <code>example.com/sample-post</code>)</li>
+  </ul>
 
-Choose your preferred URL structure (e.g., Post name)
+  <h2>2. ✏️ Disable Gutenberg Editor</h2>
+  <p>If you prefer the classic editor:</p>
+  <ul>
+    <li>Install and activate the <strong>Disable Gutenberg</strong> plugin</li>
+    <li>This reverts the post/page editor back to the classic version</li>
+  </ul>
 
-2. Disable Gutenberg Editor
-   If you prefer the classic editor:
+  <h2>3. 🚫 Disable Comments</h2>
+  <p>To completely turn off comments site-wide:</p>
+  <ul>
+    <li>Install and activate the <strong>Disable Comments</strong> plugin</li>
+    <li>Go to <strong>Settings &gt; Disable Comments</strong></li>
+    <li>Enable these options:
+      <ul>
+        <li>✔ Disable Comments via XML-RPC</li>
+        <li>✔ Disable Comments via REST API</li>
+      </ul>
+    </li>
+  </ul>
 
-Install and activate the Disable Gutenberg plugin
-
-This will revert the post/page editor back to the classic editor
-
-3. Disable Comments
-   To completely disable comments across your site:
-
-Install the Disable Comments plugin
-
-Go to Settings > Disable Comments
-
-Enable the following options:
-
-✔ Disable Comments via XML-RPC
-
-✔ Disable Comments via REST API
-
-4. Use SiteOrigin Page Builder
-   A user-friendly drag-and-drop builder for custom page layouts:
-
-Install the SiteOrigin Page Builder plugin
-
-Go to Settings > SiteOrigin
-
-Click on "Click here to install" to install the SiteOrigin Widgets Bundle
+  <h2>4. 📐 Use SiteOrigin Page Builder</h2>
+  <p>Build custom layouts easily with this drag-and-drop tool:</p>
+  <ul>
+    <li>Install and activate the <strong>SiteOrigin Page Builder</strong> plugin</li>
+    <li>Go to <strong>Settings &gt; SiteOrigin</strong></li>
+    <li>Click “<strong>Click here to install</strong>” to add the SiteOrigin Widgets Bundle</li>
+  </ul>
