@@ -1,4 +1,4 @@
-WordPress Tips and Tricks
+<h1>WordPress Tips and Tricks </h1>
 Here are some useful tips and tricks to optimize and customize your WordPress site:
 
 1. Change Permalinks
